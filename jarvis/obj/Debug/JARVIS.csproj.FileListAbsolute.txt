@@ -1,0 +1,3 @@
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\GoSmart.exe.config
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\GoSmart.exe
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\GoSmart.pdb

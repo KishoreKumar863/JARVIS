@@ -1,0 +1,12 @@
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\GoSmart.exe.config
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\GoSmart.exe
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\GoSmart.pdb
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\GoSmart.exe
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\GoSmart.pdb
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\System.Net.Http.dll
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\bin\Debug\System.Net.Http.xml
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\KISHORE_JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\VoiceRecognition.frmUtama.resources
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\VoiceRecognition.FrmList.resources
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\VoiceRecognition.Properties.Resources.resources
+C:\Users\Kishore Kumar V\Downloads\kis\jarvis\jarvis\obj\Debug\KISHORE_JARVIS.csproj.GenerateResource.Cache
